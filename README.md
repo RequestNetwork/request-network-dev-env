@@ -1,6 +1,22 @@
 # Request Network Environment
 
-Bootstrap your Request Network development using docker
+Bootstrap your Request Network development using docker. 
+
+This repo will run a local blockchain and provides you with a local wallet.
+
+## Capabilities
+
+* enables offline development
+* runs local blockchain
+* no need to deal with faucets
+
+## Architecture
+
+Behind the hood a few things are happening:
+
+* launches ipfs node
+* launches ganache (local blockchain)
+* deployment of request network smart contracts onto the local blockchain
 
 
 ## Prerequisites
