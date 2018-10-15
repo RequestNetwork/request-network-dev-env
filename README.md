@@ -4,6 +4,10 @@ Bootstrap your Request Network development using docker.
 
 This repo will run a local blockchain and provides you with a local wallet.
 
+## Limitations
+
+**Only** works on `Linux`
+
 ## Capabilities
 
 * enables offline development
